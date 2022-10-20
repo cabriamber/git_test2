@@ -1,0 +1,2 @@
+These are some lines of example text. 
+I'm practicing saving and staging files. 
